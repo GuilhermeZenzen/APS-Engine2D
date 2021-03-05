@@ -1,0 +1,21 @@
+Player Spawn/0.0,0.0
+Anchor/0.0,1.0
+Shape Collider/-0.71875,-0.1875/-0.65625,-0.25/2.15625,-0.25/2.21875,-0.1875/2.21875,1.1875/2.15625,1.25/-0.65625,1.25/-0.71875,1.1875
+Tile/-0.5,0.0/grass,top-left/255,255,255,255
+Tile/0.0,0.0/grass,top-center/255,255,255,255
+Tile/0.5,0.0/grass,top-center/255,255,255,255
+Tile/1.0,0.0/grass,top-center/255,255,255,255
+Tile/1.5,0.0/grass,top-center/255,255,255,255
+Tile/2.0,0.0/grass,top-right/255,255,255,255
+Tile/-0.5,0.5/grass,center-left/255,255,255,255
+Tile/0.0,0.5/grass,center/255,255,255,255
+Tile/0.5,0.5/grass,center/255,255,255,255
+Tile/1.0,0.5/grass,center/255,255,255,255
+Tile/1.5,0.5/grass,center/255,255,255,255
+Tile/2.0,0.5/grass,center-right/255,255,255,255
+Tile/-0.5,1.0/grass,bottom-left/255,255,255,255
+Tile/0.0,1.0/grass,bottom-center/255,255,255,255
+Tile/0.5,1.0/grass,bottom-center/255,255,255,255
+Tile/1.0,1.0/grass,bottom-center/255,255,255,255
+Tile/1.5,1.0/grass,bottom-center/255,255,255,255
+Tile/2.0,1.0/grass,bottom-right/255,255,255,255

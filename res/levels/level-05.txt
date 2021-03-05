@@ -1,0 +1,11 @@
+Player Spawn/0.0,0.0
+Anchor/0.0,1.0
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255
+Tile/0.0,0.5/grass,block/255,255,255,255

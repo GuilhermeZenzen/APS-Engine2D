@@ -1,0 +1,20 @@
+Player Spawn/0.0,0.0
+Anchor/-3.0,-0.5
+Shape Collider/0.65625,-2.71875/0.71875,-2.6875/0.71875,-2.21875/-2.15625,0.65625/-2.21875,0.65625/-2.21875,0.15625
+Tile/-1.5,-0.5/grass,up-ramp-1-middle-top/255,255,255,255
+Tile/-1.0,-1.0/grass,up-ramp-1-middle-top/255,255,255,255
+Tile/-0.5,-1.5/grass,up-ramp-1-middle-top/255,255,255,255
+Tile/0.0,-2.0/grass,up-ramp-1-middle-top/255,255,255,255
+Tile/-2.0,-0.5/grass,up-ramp-connector/255,255,255,255
+Tile/-1.5,-1.0/grass,up-ramp-connector/255,255,255,255
+Tile/-1.0,-1.5/grass,up-ramp-connector/255,255,255,255
+Tile/-0.5,-2.0/grass,up-ramp-connector/255,255,255,255
+Tile/-1.5,0.0/grass,up-ramp-n-middle-bottom/255,255,255,255
+Tile/-1.0,-0.5/grass,up-ramp-n-middle-bottom/255,255,255,255
+Tile/-0.5,-1.0/grass,up-ramp-n-middle-bottom/255,255,255,255
+Tile/0.0,-1.5/grass,up-ramp-n-middle-bottom/255,255,255,255
+Tile/-2.0,0.5/grass,up-ramp-1-start-bottom/255,255,255,255
+Tile/-2.0,0.0/grass,up-ramp-1-start-top/255,255,255,255
+Tile/0.5,-2.5/grass,up-ramp-end-top/255,255,255,255
+Tile/0.0,-2.5/grass,up-ramp-connector/255,255,255,255
+Tile/0.5,-2.0/grass,up-ramp-1-end-bottom/255,255,255,255

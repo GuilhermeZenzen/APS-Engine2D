@@ -1,0 +1,11 @@
+unlocked-level;5
+attribute-points;7
+skill-points;0
+character;PETase
+stats;1
+stats;1
+stats;1
+stats;4
+stats;3
+stats;1
+stats;1
